@@ -61,6 +61,7 @@ body {
 
 .footer {
     background-color: #85144B;
+    width: 100%;
     font-size: 0.9rem;
     font-style: italic;
     height: 35px;
@@ -70,5 +71,4 @@ body {
     flex-wrap: wrap;
     position: fixed;
     bottom: 0;
-    width: 100%;
 }
